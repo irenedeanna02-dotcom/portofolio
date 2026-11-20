@@ -5,7 +5,7 @@ Website
 Fitur fitur:
 About
 Home
-Service
+Project
 Contact Us
 
 Teknologi yang digunakan:
